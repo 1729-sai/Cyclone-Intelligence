@@ -1,0 +1,6 @@
+{
+  "name": "Cyclone Intelligence",
+  "description": "AI/ML-based Tropical Cyclone Pattern Analysis and Early Warning Geospatial Intelligence Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
